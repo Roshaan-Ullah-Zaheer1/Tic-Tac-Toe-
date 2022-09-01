@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Semester 1\Programming Fundamentals\Visual Studio\Visual Studio Projects\Tic Tae Toe Lab Project\Tic Tae Toe Lab Project\Source.cpp(18,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Semester 1\Programming Fundamentals\Visual Studio\Visual Studio Projects\Tic Tae Toe Lab Project\Tic Tae Toe Lab Project\Source.cpp(173): warning C4715: 'VALIDINPUT': not all control paths return a value
+  Tic Tae Toe Lab Project.vcxproj -> D:\Semester 1\Programming Fundamentals\Visual Studio\Visual Studio Projects\Tic Tae Toe Lab Project\Debug\Tic Tae Toe Lab Project.exe

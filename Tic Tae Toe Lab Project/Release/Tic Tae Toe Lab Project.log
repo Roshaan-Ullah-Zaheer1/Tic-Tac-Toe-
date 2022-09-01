@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Semester 1\Programming Fundamentals\Visual Studio\Visual Studio Projects\Tic Tae Toe Lab Project\Tic Tae Toe Lab Project\Source.cpp(18,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+D:\Semester 1\Programming Fundamentals\Visual Studio\Visual Studio Projects\Tic Tae Toe Lab Project\Tic Tae Toe Lab Project\Source.cpp(176): warning C4715: 'VALIDINPUT': not all control paths return a value
+  All 119 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tic Tae Toe Lab Project.vcxproj -> D:\Semester 1\Programming Fundamentals\Visual Studio\Visual Studio Projects\Tic Tae Toe Lab Project\Release\Tic Tae Toe Lab Project.exe
